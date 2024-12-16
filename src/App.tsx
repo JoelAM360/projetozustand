@@ -8,10 +8,10 @@ function App() {
         <Inputs name='tarefa' placeholder='Digite a Tarefa' type='text' />
         <Buttons name='Teste' />  
         <Buttons name='Teste' />  
-
-    </div>
+        <Buttons name='Teste' />  
+        <Buttons name='Teste' />  
+      </div>
   );
 }
 
 export default App;
-git 

@@ -4,6 +4,12 @@
 type Props = { name: string}
 export default function Buttons({name} : Props) {
   return (
-    <button>{name}</button>
+    <div>
+        <button>{name}</button>
+        <button>{name}</button>
+        <button>{name}</button>
+        <button>{name}</button>
+        <button>{name}</button>
+    </div>
   )
 }
