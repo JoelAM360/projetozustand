@@ -6,10 +6,15 @@ function App() {
   return (
     <div className="App">
         <Inputs name='tarefa' placeholder='Digite a Tarefa' type='text' />
+        <Inputs name='tarefa' placeholder='Digite a Tarefa' type='text' />
+        <Inputs name='tarefa' placeholder='Digite a Tarefa' type='text' />
+        <Inputs name='tarefa' placeholder='Digite a Tarefa' type='text' />
         <Buttons name='Teste' />  
         <Buttons name='Teste' />  
         <Buttons name='Teste' />  
         <Buttons name='Teste' />  
+
+        <h1>Teste JOel Nova Atulização!!</h1>
       </div>
   );
 }
